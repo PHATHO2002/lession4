@@ -1,0 +1,3 @@
+-Đa hình trừu tượng giúp dễ dàng mở rộng ứng dụng bằng cách thêm các lớp con mới mà không làm ảnh hưởng đến phần còn lại của mã.
+-Khi sử dụng đa hình trừu tượng, không cần phải biết lớp con cụ thể mà chỉ cần làm việc với lớp trừu tượng hoặc interface
+-đa hình trừu tượng có thể định nghĩa các phương thức cơ bản trong lớp trừu tượng, sau đó các lớp con có thể kế thừa và tái sử dụng mã, giảm thiểu viết nhiều mã
